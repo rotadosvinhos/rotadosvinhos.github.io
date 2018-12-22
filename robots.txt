@@ -1,0 +1,4 @@
+User-agent: * 
+Allow: /
+
+sitemap: https://miguelt1.github.io/rotadosvinhos/sitemap.xml
