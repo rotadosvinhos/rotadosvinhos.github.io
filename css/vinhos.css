@@ -285,13 +285,14 @@ th
       height: 100%;
   }
 
-  figure p {
+  figcaption  {
     color: rgba(255, 255, 255, 0.7);
-    margin-top:22px;
+    margin-top:-30px;
     margin-left:290px;
+
   }
 
-  figure p a {
+  figcaption a {
     color: #e6a756 !important;
   }
 
