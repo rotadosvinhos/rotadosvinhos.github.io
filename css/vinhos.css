@@ -285,4 +285,14 @@ th
       height: 100%;
   }
 
+  figure p {
+    color: rgba(255, 255, 255, 0.7);
+    margin-top:22px;
+    margin-left:290px;
+  }
+
+  figure p a {
+    color: #e6a756 !important;
+  }
+
   
